@@ -37,6 +37,118 @@
         Nested albums, if any
       -->
       <div id="albums" class="justified-gallery">
+            <a href="Alle.html">
+              <img src="media/small/Alle/20120110-_MG_4390-010.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Alle</h3>
+                <div class="summary">549 photos</div>
+              </div>
+            </a>
+            <a href="2012.html">
+              <img src="media/small/Alle/20120110-_MG_4390-010.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2012</h3>
+                <div class="summary">85 photos</div>
+              </div>
+            </a>
+            <a href="Udvalgte.html">
+              <img src="media/small/Alle/20120326-_MG_5874-004.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Udvalgte</h3>
+                <div class="summary">24 photos</div>
+              </div>
+            </a>
+            <a href="2013.html">
+              <img src="media/small/Alle/20120605-IMG_2536-067.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2013</h3>
+                <div class="summary">65 photos</div>
+              </div>
+            </a>
+            <a href="2014.html">
+              <img src="media/small/Alle/20140125-2K2A0717-055.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2014</h3>
+                <div class="summary">75 photos</div>
+              </div>
+            </a>
+            <a href="2015.html">
+              <img src="media/small/Alle/20150107-2K2A3070-008.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2015</h3>
+                <div class="summary">56 photos</div>
+              </div>
+            </a>
+            <a href="2016.html">
+              <img src="media/small/Alle/20160102-2K2A8298-100.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2016</h3>
+                <div class="summary">66 photos</div>
+              </div>
+            </a>
+            <a href="2017.html">
+              <img src="media/small/Alle/20170101-2K2A5889-560.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2017</h3>
+                <div class="summary">57 photos</div>
+              </div>
+            </a>
+            <a href="2018.html">
+              <img src="media/small/Alle/20180101-DSCF4963-033.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2018</h3>
+                <div class="summary">25 photos</div>
+              </div>
+            </a>
+            <a href="2019.html">
+              <img src="media/small/Alle/20190120-2K2A9113-286.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2019</h3>
+                <div class="summary">25 photos</div>
+              </div>
+            </a>
+            <a href="2020.html">
+              <img src="media/small/Alle/20200107-2K2A2253-136.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2020</h3>
+                <div class="summary">4 photos</div>
+              </div>
+            </a>
+            <a href="2021.html">
+              <img src="media/small/Alle/20210123_123639.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2021</h3>
+                <div class="summary">13 photos</div>
+              </div>
+            </a>
+            <a href="2022.html">
+              <img src="media/small/Alle/20220428-2K2A5935-049.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2022</h3>
+                <div class="summary">3 photos</div>
+              </div>
+            </a>
+            <a href="2023.html">
+              <img src="media/small/Alle/20230129-DSCF0472-066.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2023</h3>
+                <div class="summary">62 photos</div>
+              </div>
+            </a>
+            <a href="2024.html">
+              <img src="media/small/Alle/20240113-DSCF1426.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2024</h3>
+                <div class="summary">8 photos</div>
+              </div>
+            </a>
+            <a href="2026.html">
+              <img src="media/small/Alle/20260502-DSCF4564.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>2026</h3>
+                <div class="summary">5 photos</div>
+              </div>
+            </a>
       </div>
     
       <!--
@@ -70,13 +182,10 @@
     <!-- VideoJS -->
     <script src="public/videojs/video.min.js"></script>
     <!-- LightGallery -->
-    <script src="public/lightgallery/js/lightgallery.js"></script>
-    <script src="public/lightslider/js/lightslider.min.js"></script>
-    <script src="public/lightgallery/js/lg-autoplay.js"></script>
-    <script src="public/lightgallery/js/lg-pager.js"></script>
-    <script src="public/lightgallery/js/lg-thumbnail.js"></script>
-    <script src="public/lightgallery/js/lg-video.js"></script>
+    <script src="public/lightgallery/js/lightgallery-all.min.js"></script>
     <script src="public/lightgallery/js/lg-exif.min.js"></script>
+    <!-- LightSlider + Justified Gallery -->
+    <script src="public/lightslider/js/lightslider.min.js"></script>
     <script src="public/justifiedgallery/jquery.justifiedGallery.min.js"></script>
 
     <script>
@@ -88,7 +197,9 @@
           download: true,
           counter: true,
           videojs: true,
-          exThumbImage: 'data-exthumbimage',
+          fullScreen: true,
+          zoom: true,
+          exThumbImage: 'data-exthumbimage'
         });
 
         // Init justified gallery for albums

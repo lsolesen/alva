@@ -3,19 +3,19 @@
   "output": "./docs",
   "title": "Alva",
   "thumb-size": 200,
-  "photo-size": 1920,
+  "photo-size": 3840,
   "photo-quality": 80,
-  "thumb-quality": 80,
-  "album-from": [
-    "Years/{YYYY}",
-    "Alle/%path",
+  "thumb-quality": 60,
+  "albums-from": [
+    "{YYYY}",
+    "%path",
     "file://mapper.js"
   ],
   "sort-media-by": "date",
   "photo-download": "resize",
   "video-download": "resize",
   "sort-albums-by": "start-date",
-  "theme": "flow",
+  "theme-path": "./theme-flow-dji",
   "footer": "Tillykke med konfirmationen, Alva.",
   "embed-exif": true
 }

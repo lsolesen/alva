@@ -6,3 +6,92 @@
 2026-05-21T04:37:44.152Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
 2026-05-21T04:37:44.152Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
 2026-05-21T04:37:44.152Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:40:54.672Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:40:54.699Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:40:54.699Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:40:54.700Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:44:02.029Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:44:02.037Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:44:02.037Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:44:02.037Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:44:30.243Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:44:30.243Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:44:30.243Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:44:30.243Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:45:23.471Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:45:23.472Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:45:23.472Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:45:23.472Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:45:23.514Z thumbsup:error TypeError: pattern is not a function
+2026-05-21T04:45:23.514Z thumbsup:error     at /home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/album-mapper.js:19:48
+2026-05-21T04:45:23.514Z thumbsup:error     at arrayMap (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:654:23)
+2026-05-21T04:45:23.514Z thumbsup:error     at map (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:9653:14)
+2026-05-21T04:45:23.514Z thumbsup:error     at Function.flatMap (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:9356:26)
+2026-05-21T04:45:23.514Z thumbsup:error     at AlbumMapper.getAlbums (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/album-mapper.js:19:14)
+2026-05-21T04:45:23.514Z thumbsup:error     at /home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:25:35
+2026-05-21T04:45:23.514Z thumbsup:error     at Array.forEach (<anonymous>)
+2026-05-21T04:45:23.514Z thumbsup:error     at group (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:24:14)
+2026-05-21T04:45:23.514Z thumbsup:error     at exports.createAlbums (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:9:16)
+2026-05-21T04:45:23.514Z thumbsup:error     at EventEmitter.<anonymous> (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/steps/step-index.js:54:31)
+2026-05-21T04:45:37.037Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:45:37.037Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:45:37.037Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:45:37.037Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:46:30.274Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:46:30.275Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:46:30.275Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:46:30.280Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:47:10.953Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:47:10.955Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:47:10.955Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:47:10.955Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:47:11.445Z thumbsup:error TypeError: pattern is not a function
+2026-05-21T04:47:11.445Z thumbsup:error     at /home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/album-mapper.js:19:48
+2026-05-21T04:47:11.445Z thumbsup:error     at arrayMap (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:654:23)
+2026-05-21T04:47:11.445Z thumbsup:error     at map (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:9653:14)
+2026-05-21T04:47:11.445Z thumbsup:error     at Function.flatMap (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/node_modules/lodash/lodash.js:9356:26)
+2026-05-21T04:47:11.445Z thumbsup:error     at AlbumMapper.getAlbums (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/album-mapper.js:19:14)
+2026-05-21T04:47:11.445Z thumbsup:error     at /home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:25:35
+2026-05-21T04:47:11.445Z thumbsup:error     at Array.forEach (<anonymous>)
+2026-05-21T04:47:11.445Z thumbsup:error     at group (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:24:14)
+2026-05-21T04:47:11.445Z thumbsup:error     at exports.createAlbums (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/input/hierarchy.js:9:16)
+2026-05-21T04:47:11.445Z thumbsup:error     at EventEmitter.<anonymous> (/home/lsolesen/.npm-global/lib/node_modules/thumbsup/src/steps/step-index.js:54:31)
+2026-05-21T04:47:48.206Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:47:48.207Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:47:48.207Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:47:48.207Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:48:30.064Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:48:30.065Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:48:30.065Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:48:30.065Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:52:25.416Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:52:25.417Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:52:25.417Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:52:25.417Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-21T04:56:10.865Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-21T04:56:10.866Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-21T04:56:10.866Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-21T04:56:10.866Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-22T09:20:52.289Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-22T09:20:52.290Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-22T09:20:52.290Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-22T09:20:52.290Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-22T09:25:31.359Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-22T09:25:31.360Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-22T09:25:31.360Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-22T09:25:31.360Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-22T09:25:50.980Z thumbsup:error Error processing Alle/20170722-DSCF3301-059.jpg -> media/thumbs/Alle/20170722-DSCF3301-059.jpg
+2026-05-22T09:25:50.980Z thumbsup:error Error: Command failed: gm identify: Unable to open file (/home/lsolesen/projects/alva/images/Alle/20170722-DSCF3301-059.jpg).
+2026-05-22T09:25:50.980Z thumbsup:error gm identify: Request did not return an image.
+2026-05-22T09:25:50.980Z thumbsup:error 
+2026-05-22T09:27:01.392Z thumbsup:warn The following sources files were not processed:
+2026-05-22T09:27:01.392Z thumbsup:warn Alle/20170722-DSCF3301-059.jpg
+2026-05-22T09:27:44.823Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-22T09:27:44.824Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-22T09:27:44.824Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-22T09:27:44.824Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2026-05-22T09:27:44.966Z thumbsup:warn ENOENT: no such file or directory, lstat '/home/lsolesen/projects/alva/images/Alle/20260502-DSCF4615.jpg'
+2026-05-22T09:28:47.874Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2026-05-22T09:28:47.874Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2026-05-22T09:28:47.874Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2026-05-22T09:28:47.875Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
